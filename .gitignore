@@ -1,8 +1,28 @@
 # Compiled class file
+#Java / Spring
+target/
+build/
 *.class
+
+#Intellij
+.idea/
+*.iml
 
 # Log file
 *.log
+
+#Environment / Secrets
+application.properties
+application.yml
+.env
+
+#OS
+.DS_Store
+
+#Keys/ Credentials
+*.pem
+aws/
+openai/
 
 # BlueJ files
 *.ctxt
