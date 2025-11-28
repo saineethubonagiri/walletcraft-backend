@@ -13,10 +13,18 @@ Track. Manage. Grow. Your money, your way.
 - Spring Boot
 - PostgreSQL
 - Spring Data JPA
-- JWT Authentication (planned)
+- JWT Authentication
 - Maven
-- AWS (EC2, RDS, S3 — future deployment)
+- AWS EC2 (Backend Hosting)
+- AWS RDS (PostgreSQL)
+- AWS S3 (Future file storage)
 - Docker (Optional)
+- Redis (Optional – caching)
+- CI/CD Pipeline (GitHub Actions – optional)
+- Kubernetes Basics (Optional – future scaling)
+- AI Integration (Future)
+  - OpenAI API OR AWS Bedrock
+
 
 ---
 ## Features
