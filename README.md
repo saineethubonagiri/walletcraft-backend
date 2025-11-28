@@ -1,6 +1,12 @@
 # Expense-tracker-backend
 
 A backend service built using **Spring Boot + PostgreSQL** for managing users, expenses, and categories.
+
+---
+# WalletCraft Backend
+
+Track. Manage. Grow. Your money, your way. 
+
 ---
 ## Tech Stack
 - Java 17
@@ -21,7 +27,11 @@ A backend service built using **Spring Boot + PostgreSQL** for managing users, e
 - Admin + User roles
 - REST API for frontend
 
+---
+
 ## Folder Structure
+
+---
 
 ## Database Schema (Draft)
 - **Users**
@@ -31,7 +41,7 @@ ER diagram: (Add Draw.io link here)
 
 ---
 
-## 🔌 API Endpoints (High-Level)
+## API Endpoints (High-Level)
 - `/auth/register`
 - `/auth/login`
 - `/expenses`
@@ -43,12 +53,20 @@ ER diagram: (Add Draw.io link here)
 
 ### 1️. Clone the repository  
 git clone <repo-link>
-### 2️⃣ Configure your `application.properties`
+### 2. Configure your `application.properties`
 Add:
 - DB name
 - username
 - password
 
-### 3️⃣ Run the app 
+### 3. Run the app 
 or run from IntelliJ.
- 
+
+---
+
+## Roadmap 
+
+---
+
+## License
+(none)
