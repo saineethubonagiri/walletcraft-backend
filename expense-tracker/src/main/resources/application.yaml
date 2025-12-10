@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: expense-tracker
+  datasource:
+    url: jdbc:postgresql://localhost:5432/expense_tracker_db
+    username: postgres
+    password: Neethu@232619
+  jpa:
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.PostgreSQLDialect
+    hibernate:
+      ddl-auto:update
+
+server:
+  port: 8081
