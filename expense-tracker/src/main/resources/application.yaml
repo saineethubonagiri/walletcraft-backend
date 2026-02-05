@@ -1,6 +1,6 @@
 spring:
   application:
-    name: expense-tracker
+    name: walletcraft_db
   datasource:
     url: ${DB_URL}
     username: ${DB_USERNAME}
